@@ -5,7 +5,7 @@ require "kandan_campfire/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "kandan_campfire"
+  s.name        = "kandan-campfire"
   s.version     = KandanCampfire::VERSION
   s.authors     = ["Michael Moen"]
   s.email       = ["michael@dojo4.com"]
